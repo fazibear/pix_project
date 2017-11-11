@@ -1,4 +1,5 @@
 #!/bin/bash
 
-git pull
-pix_ruby/bin/pix restart
+(cd pix_kernel && git pull)
+(cd pix_ruby && git pull)
+(cd pix_elixir && git pull)
