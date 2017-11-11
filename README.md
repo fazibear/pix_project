@@ -6,11 +6,11 @@ Pixel frame like the project, but with raspberry pi inside.
 
 Kernel module drives an RGB LED matrix. Most of the informations are in my [blog post](https://blog.fazibear.me/the-beginners-guide-to-linux-kernel-module-raspberry-pi-and-led-matrix-790e8236e8e9) about it.
 
-## Ruby application [fazibear/pix_app_ruby](https://github.com/fazibear/pix_app_ruby)
+## Ruby application [fazibear/pix_ruby](https://github.com/fazibear/pix_ruby)
 
 Ruby application displays various things in LED matrix, using sysfs provided by the kernel module.
 
-## Elixir application [fazibear/pix_app_elixir](https://github.com/fazibear/pix_app_elixir)
+## Elixir application [fazibear/pix_elixir](https://github.com/fazibear/pix_elixir)
 
 WIP!
 
